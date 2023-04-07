@@ -52,6 +52,6 @@ What are the more important hiring conditons in developing countries?
 
 **Contributors**
 ---
-- @phyosandarwin: EDA (Numeric), Logistic Regression
+- @phyosandarwin: EDA (Numeric), Logistic Regression + Chi-Square Statistic in EDA (Categoric)
 - @cheyenneseet: Data Cleaning, Decision Tree Classifier
 - @senchiagladine: EDA (Categoric), Support Vector Machine
