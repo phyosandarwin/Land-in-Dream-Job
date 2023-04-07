@@ -6,10 +6,10 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 For detailed walkthrough, please view the source code in order from:
 
-1. Data Preparation and Cleaning
+1. [Data Preparation and Cleaning](https://github.com/phyosandarwin/Jobmatch/blob/38707bf6dcb011d3331f317f7b01096b5704419d/Data_Preparation_and_Cleaning.ipynb)
 2. Exploratory Data Analysis (EDA)
-   - Numeric
-   - Categorical
+   - [Numeric](https://github.com/phyosandarwin/Jobmatch/blob/38707bf6dcb011d3331f317f7b01096b5704419d/EDA%20(Numeric).ipynb)
+   - [Categorical](https://github.com/phyosandarwin/Jobmatch/blob/38707bf6dcb011d3331f317f7b01096b5704419d/EDA%20(Categorical).ipynb)
 3. Machine Learning Models
 4. Data-Driven Insights
 
