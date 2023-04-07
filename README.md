@@ -12,7 +12,6 @@ For detailed walkthrough, please view the source code in order from:
    - [Numeric](https://github.com/phyosandarwin/Jobmatch/blob/38707bf6dcb011d3331f317f7b01096b5704419d/EDA%20(Numeric).ipynb)
    - [Categorical](https://github.com/phyosandarwin/Jobmatch/blob/38707bf6dcb011d3331f317f7b01096b5704419d/EDA%20(Categorical).ipynb)
 3. Machine Learning Models
-4. Data-Driven Insights
 
 
 **Problem Definition**
