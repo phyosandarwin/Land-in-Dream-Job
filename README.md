@@ -3,7 +3,7 @@
 
 **About**
 ---
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on **job placement statuses in developing countries** from Job Placement Status Kaggle Dataset (https://www.kaggle.com/datasets/ahsan81/job-placement-dataset). 
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on **job placement statuses in developing countries** from [Job Placement Status Kaggle Dataset](https://www.kaggle.com/datasets/ahsan81/job-placement-dataset). 
 
 For detailed walkthrough, please view the source code in order from:
 
