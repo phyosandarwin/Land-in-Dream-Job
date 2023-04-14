@@ -17,6 +17,9 @@ For detailed walkthrough, please view the source code in order from:
 **Problem Definition**
 ---
 Which variables are the most important in predicting whether one gets hired or not?
+> Growing need for educated and talented individuals, especially in developing countries, recruiting fresh graduates is a routine practice for organizations. 
+> As undergraduate students, we felt that this issue was relevant to us. 
+> As individuals who are not so familiar with trends in developing countries, we decided to investigate the hiring practices of fresh graduates there. 
 
 
 **Models used**
