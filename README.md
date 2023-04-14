@@ -31,7 +31,7 @@ Which variables are the most important in predicting whether one gets hired or n
 
 
 * Logistic Regression performs the best out of the three models, especially in terms of F1 score (good balance between precision and recall)
-> features most important in influencing a candidate’s hiring status are SSC%, HSC%, Degree %, MBA %, and the lack of work experience
+> features selected are SSC%, HSC%, Degree %, MBA %, and the lack of work experience
 * Unexpectedly in developing countries, hiring practices have an increasing focus on work experience (although academic qualifications remain to be highly desirable) and a decreasing focus on gender for job roles.
 * Our recommendations to students from LDC are:
 > 1. Do well academically across all levels
