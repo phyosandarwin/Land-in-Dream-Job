@@ -51,9 +51,9 @@ Which variables are the most important in predicting whether one gets hired or n
 
 **References**
 ---
-- 
-- 
--
+- [Chi-square Test]
+- [Logistic Regression Code Explanation ](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
+- [SVM]()
 -
 -
 - 
