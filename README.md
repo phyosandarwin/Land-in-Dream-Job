@@ -25,8 +25,13 @@ Which variables are the most important in predicting whether one gets hired or n
    >- Logistic Regression
    >- Support Vector Machine (SVM)
   
-**Conclusion**
+**Conclusion/Data-driven insights**
 ---
+![image](https://user-images.githubusercontent.com/120161341/231919542-ba25a7ef-a597-48e9-a72e-643b67001740.png)
+
+
+* Logistic Regression performs the best out of the three models. 
+> features most important in influencing a candidate’s hiring status are SSC%, HSC%, Degree %, MBA %, and the lack of work experience
 * Unexpectedly in developing countries, hiring practices have an increasing focus on work experience (although academic qualifications remain to be highly desirable) and a decreasing focus on gender for job roles.
 * Our recommendations to students from LDC are:
 > 1. Do well academically across all levels
