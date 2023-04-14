@@ -54,7 +54,7 @@ Which variables are the most important in predicting whether one gets hired or n
 - [Chi-square Test]
 - [Logistic Regression Code Explanation ](https://www.youtube.com/watch?v=VCJdg7YBbAQ)
 - [SVM](https://datagy.io/python-support-vector-machines/)
--
+- [EDA with categorical variables] (https://medium.com/analytics-vidhya/tutorial-exploratory-data-analysis-eda-with-categorical-variables-6a569a3aea55)
 -
 - 
 
