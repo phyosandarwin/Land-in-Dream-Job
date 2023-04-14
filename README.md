@@ -11,12 +11,12 @@ For detailed walkthrough, please view the source code in order from:
 2. Exploratory Data Analysis (EDA)
    - [Numeric](https://github.com/phyosandarwin/Jobmatch/blob/38707bf6dcb011d3331f317f7b01096b5704419d/EDA%20(Numeric).ipynb)
    - [Categorical](https://github.com/phyosandarwin/Jobmatch/blob/38707bf6dcb011d3331f317f7b01096b5704419d/EDA%20(Categorical).ipynb)
-3. Machine Learning Models
+3. [Machine Learning Models](https://github.com/phyosandarwin/Jobmatch/blob/0b75465dad5b0048b4aa47ac0e3e7ce95dd978cb/Machine_Learning_Models.ipynb)
 
 
 **Problem Definition**
 ---
-What are the more important hiring conditons in developing countries?
+Which variables are the most important in predicting whether one gets hired or not?
 
 
 **Models used**
@@ -27,7 +27,10 @@ What are the more important hiring conditons in developing countries?
   
 **Conclusion**
 ---
-
+* Unexpectedly in developing countries, hiring practices have an increasing focus on work experience (although academic qualifications remain to be highly desirable) and a decreasing focus on gender for job roles.
+* Our recommendations to students from LDC are:
+> 1. Do well academically across all levels
+> 2. Gain some work experience before entering the workforce, e.g. internships
 
 **What did we learn from the project?**
 ---
@@ -53,5 +56,5 @@ What are the more important hiring conditons in developing countries?
 **Contributors**
 ---
 - [@phyosandarwin](https://github.com/phyosandarwin): EDA (Numeric), Logistic Regression + Chi-Square Statistic in EDA (Categoric)
-- [@cheyenneseet](https://github.com/cheyenneseet): Data Cleaning, Decision Tree Classifier
-- [@senchiagladine](https://github.com/senchiagladine): EDA (Categoric), Support Vector Machine
+- [@cheyenneseet](https://github.com/cheyenneseet): Data Cleaning, Decision Tree Classifier, Data-driven insights
+- [@senchiagladine](https://github.com/senchiagladine): EDA (Categoric), Support Vector Machine, Data-driven insights
