@@ -60,6 +60,6 @@ Which variables are the most important in predicting whether one gets hired or n
 
 **Contributors**
 ---
-- [@phyosandarwin](https://github.com/phyosandarwin): EDA (Numeric), Logistic Regression + Chi-Square Statistic in EDA (Categoric)
-- [@cheyenneseet](https://github.com/cheyenneseet): Data Cleaning, Decision Tree Classifier, Data-driven insights
-- [@senchiagladine](https://github.com/senchiagladine): EDA (Categoric), Support Vector Machine, Data-driven insights
+- [@phyosandarwin](https://github.com/phyosandarwin): EDA (Numeric), Logistic Regression, Chi-Square Statistic in EDA (Categoric), Data-driven insights
+- [@cheyenneseet](https://github.com/cheyenneseet): Data Preparation and Cleaning, Decision Tree Classifier, Data-driven insights, Video Presentation
+- [@senchiagladine](https://github.com/senchiagladine): EDA (Categoric), Support Vector Machine, Data-driven insights, Video Presentation
