@@ -47,7 +47,7 @@ Which variables are the most important in predicting whether one gets hired or n
 - Use of F1 score, precision, recall, ROC-AUC score as model performance evaluation metrics
 - Use of RFE (Recursive Feature Elimination) as a feature selection technique
 - Logistic regression and SVM from sklearn
-- Collaborating using GitHub
+- Collaborating on GitHub
 
 
 **References**
