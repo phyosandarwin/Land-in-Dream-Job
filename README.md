@@ -14,11 +14,14 @@ For detailed walkthrough, please view the source code in order from:
 3. [Machine Learning Models](https://github.com/phyosandarwin/Jobmatch/blob/0b75465dad5b0048b4aa47ac0e3e7ce95dd978cb/Machine_Learning_Models.ipynb)
 
 [Presentation Slides](https://github.com/phyosandarwin/Jobmatch/blob/27859ca595f2a9fab3ac8e127e2501faee96888d/B126%20Group%208%20Presentation%20Slides.pdf)
+
 [Video]
 
-**Problem Definition**
+**Problem Statement**
 ---
 Which variables are the most important in predicting whether one gets hired or not?
+
+**Problem Significance**
 > Growing need for educated and talented individuals, especially in developing countries, recruiting fresh graduates is a routine practice for organizations. 
 > As undergraduate students, we felt that this issue was relevant to us. 
 > As individuals who are not so familiar with trends in developing countries, we decided to investigate the hiring practices of fresh graduates there. 
