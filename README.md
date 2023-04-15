@@ -14,6 +14,7 @@ For detailed walkthrough, please view the source code in order from:
 3. [Machine Learning Models](https://github.com/phyosandarwin/Jobmatch/blob/0b75465dad5b0048b4aa47ac0e3e7ce95dd978cb/Machine_Learning_Models.ipynb)
 
 [Presentation Slides](https://github.com/phyosandarwin/Jobmatch/blob/27859ca595f2a9fab3ac8e127e2501faee96888d/B126%20Group%208%20Presentation%20Slides.pdf)
+[Video]
 
 **Problem Definition**
 ---
