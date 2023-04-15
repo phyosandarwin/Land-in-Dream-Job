@@ -13,7 +13,7 @@ For detailed walkthrough, please view the source code in order from:
    - [Categorical](https://github.com/phyosandarwin/Jobmatch/blob/38707bf6dcb011d3331f317f7b01096b5704419d/EDA%20(Categorical).ipynb)
 3. [Machine Learning Models](https://github.com/phyosandarwin/Jobmatch/blob/0b75465dad5b0048b4aa47ac0e3e7ce95dd978cb/Machine_Learning_Models.ipynb)
 
-[Presentation Slides](https://github.com/phyosandarwin/Jobmatch/blob/8b84e391d0b90a70e83b1ab3c8ced6731d9ed523/B126%20Group%208%20Presentation%20Slides.pdf)
+[Presentation Slides](https://github.com/phyosandarwin/Jobmatch/blob/27859ca595f2a9fab3ac8e127e2501faee96888d/B126%20Group%208%20Presentation%20Slides.pdf)
 
 **Problem Definition**
 ---
