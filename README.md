@@ -15,7 +15,7 @@ For detailed walkthrough, please view the source code in order from:
 
 [Presentation Slides](https://github.com/phyosandarwin/Jobmatch/blob/27859ca595f2a9fab3ac8e127e2501faee96888d/B126%20Group%208%20Presentation%20Slides.pdf)
 
-[Video]
+[Video](https://github.com/phyosandarwin/Jobmatch/blob/37ccbffff4c97c579346929c8cd1cb2a4e0bd58a/B126_team%208_%20Phyo%20Cheyenne%20Senchia.mp4)
 
 **Problem Statement**
 ---
